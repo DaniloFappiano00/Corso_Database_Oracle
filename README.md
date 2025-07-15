@@ -42,42 +42,7 @@ L’importanza e la facilita di automazione su Linux
 L’utilizzo di crontab e at
 Utilizzo dei demoni (daemon)
 Esercizi • Esercizi
-Introduzione a Linux In questo modulo verrà illustrato il SO Linux, principali comandi, strumenti per l’amministrazione e per l’automazione di processi e per la gestione di applicazioni.
 
-Contenuti: • Definizione dei ruoli sulle attività architetturali del software di base; • Attività principali nel ruolo di product specialist; • Attività principali nel ruolo di helpdesk specializzato; • Introduzione a Linux, tipologie di installazioni e release (Red Hat, Ubuntu, Fedora, Slackware, SUSE ecc.); • Installazione e configurazione di base di un sistema Linux:
-
-partizionamento del file system
-mount points e link virtuali
-utente root e utenti normali, definizione del concetto di “gruppo di utenti”
-Uso della guida (comando “man”)
-Principali comandi di sistema per la lettura dei file, delle directory e per la manipolazione del testo: editor “vi”, cat, grep, type, etc.
-Definizione di “shell”
-Interfaccia grafica
-Concetti di base di networking: IP statici e dinamici, server DHCP, configurazione IP, netmask, e broadcast
-Esercizi: installazione di Linux, di una piccola rete aziendale e dei servizi di base correlati • Amministrazione e installazione software:
-Definizione di un nuovo utente e nuovo gruppo
-Installazione e disinstallazione di package RPM
-Installazione di programmi tar.gz.
-Utilità per la gestione di software installati
-Esercizi • I processi
-Ricerca dei processi
-Debug
-Risorse utilizzate da un processo o insieme di processi
-Verifica dello stato complessivo del sistema
-Esercizi • L’uso della shell bash, sh, ksh
-Impostazione delle variabili d’ambiente
-Editor di sistema
-Programmazione shell (bash)
-Sed, awk e espressioni regolari
-Esercizi • Servizi di rete
-Verifica e configurazione della rete
-Semplice analisi sul traffico di dati nella rete
-Diagnostica della rete
-Esercizi • Automazione e schedulazione
-L’importanza e la facilita di automazione su Linux
-L’utilizzo di crontab e at
-Utilizzo dei demoni (daemon)
-Esercizi • Esercizi
 DB ORACLE in ambiente Linux • Preparazione piattaforma ambiente Linux; • Overview oggetti DB: tablespace, datafile, tabella, chiavi, indici, utente, gruppi, funzioni/procedure, package; • Installazione e configurazione di base di un’istanza Oracle; • Definizione di uno schema; • Stop, start di un’istanza e test di funzionamento; • Creazione degli utenti e relativi permessi (grant); • Creazione di alcuni principali oggetti (tabelle, chiavi, indici); • Tabelle/oggetti di sistema; • Tuning & Performances DB (Explain); • Breve panoramica DBMS open source ambiente Linux: PostgreSQL, SQL Lite, MariaDB, MongoDB, Cubrid, Firebird.
 
 Piattaforme Microsoft Server e strumenti di amministratore Il modulo intende illustrare gli attuali SO server del mondo Microsoft, le loro principali caratteristiche e i principali strumenti di configurazione e management del SO.
